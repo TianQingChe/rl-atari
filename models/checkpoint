@@ -1,0 +1,6 @@
+model_checkpoint_path: "pong.ckpt-7350"
+all_model_checkpoint_paths: "pong.ckpt-7150"
+all_model_checkpoint_paths: "pong.ckpt-7200"
+all_model_checkpoint_paths: "pong.ckpt-7250"
+all_model_checkpoint_paths: "pong.ckpt-7300"
+all_model_checkpoint_paths: "pong.ckpt-7350"
